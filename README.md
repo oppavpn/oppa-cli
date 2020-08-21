@@ -1,4 +1,8 @@
+[【下载】](https://github.com/oppavpn/oppa-cli/releases)
+
 # OPPA Socks5 CLI 
+
+[【下载】](https://github.com/oppavpn/oppa-cli/releases)
 
 官网登入你的账号，获取绑定 data url：
 
@@ -46,3 +50,6 @@ Flags:
 Args:
   <bindDataURL>  QR code data for binding service
 ```
+
+
+[【下载】](https://github.com/oppavpn/oppa-cli/releases)
